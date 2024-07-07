@@ -147,6 +147,16 @@ response = client.chat.completions.create(
 )
 ```
 
+> Answer => Sure. Here's the formula for energy in terms of mass and velocity:
+
+        **E = (1/2)*m*v^2**
+        
+        where:
+        
+        * **E** is the energy in joules (J)
+        * **m** is the mass in kilograms (kg)
+        * **v** is the velocity in meters per second (m/s)
+
 How many completion tokens did you get in response?
 
 * 304
