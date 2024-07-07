@@ -49,6 +49,15 @@ What's the content of the file related to gemma?
 
 Test the following prompt: "10 * 10". What's the answer?
 
+#### Answers
+- When using the functions on the notebook the responce is 
+    - "The product of multiplying 10 by 10 is 100.\n\nHere's a breakdown:\n- You have two tens (2 x 10).\n- When you multiply them, the result is one hundred (2 x 10 = 20; then 20 x 5 = 100)."
+
+- If I use the pront in the command line the answer vary, 
+    - 1.Sure. 10 * 10.
+
+    - 2.10 * 10 is 100.
+
 ## Q4. Donwloading the weights 
 
 We don't want to pull the weights every time we run
@@ -85,6 +94,8 @@ What's the size of the `ollama_files/models` folder?
 * 2.2G
 
 Hint: on linux, you can use `du -h` for that.
+
+> Answer => 1.7G
 
 ## Q5. Adding the weights 
 
