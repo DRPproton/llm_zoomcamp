@@ -1,2 +1,10 @@
 .ipynb_checkpoints/
 __pycache__/
+02-open-source/ollama_files/id_ed25519
+02-open-source/ollama_files/id_ed25519.pub
+02-open-source/ollama_files/models/blobs/sha256-22a838ceb7fb22755a3b0ae9b4eadde629d19be1f651f73efb8c6b4e2cd0eea0
+02-open-source/ollama_files/models/blobs/sha256-109037bec39c0becc8221222ae23557559bc594290945a2c4221ab4f303b8871
+02-open-source/ollama_files/models/blobs/sha256-887433b89a901c156f7e6944442f3c9e57f3c55d6ed52042cbb7303aea994290
+02-open-source/ollama_files/models/blobs/sha256-c1864a5eb19305c40519da12cc543519e48a0697ecd30e15d5ac228644957d12
+02-open-source/ollama_files/models/blobs/sha256-097a36493f718248845233af1d3fefe7a303f864fae13bc31a3a9704229378ca
+02-open-source/ollama_files/models/manifests/registry.ollama.ai/library/gemma/2b
