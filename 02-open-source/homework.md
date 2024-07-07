@@ -159,12 +159,8 @@ response = client.chat.completions.create(
 
 How many completion tokens did you get in response?
 
-* 304
+* **304**
 * 604
 * 904
 * 1204
 
-## Submit the results
-
-* Submit your results here: https://courses.datatalks.club/llm-zoomcamp-2024/homework/hw2
-* It's possible that your answers won't match exactly. If it's the case, select the closest one.
