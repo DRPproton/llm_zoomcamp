@@ -112,6 +112,10 @@ COPY ...
 
 What do you put after `COPY`?
 
+> Answer => COPY ollama_files/models /app/weights
+
+> Copy the weights file from your local system into the container's /app directory
+
 ## Q6. Serving it 
 
 Let's build it:
